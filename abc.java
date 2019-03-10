@@ -1,3 +1,4 @@
+#it is a command line
 class abc
 {
 	public static void  main(String[] args)
@@ -10,3 +11,4 @@ class abc
 		System.out.println("The sum of three values are "+c);
 	}
 	}
+// Hello, it is a comment line
